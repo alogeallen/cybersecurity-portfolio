@@ -1,0 +1,7 @@
+This file has a flag in plain sight (aka "in-the-clear"). 
+
+
+I solved this challenge using webshell.
+To do this, I download the file using wget command as 
+wget https://mercury.picoctf.net/static/a5683698ac318b47bd060cb786859f23/flag
+when the download is completed, cat flag to reveal the fag as seen in the image
